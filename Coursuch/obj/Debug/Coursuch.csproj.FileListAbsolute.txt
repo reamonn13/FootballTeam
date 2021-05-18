@@ -1,0 +1,28 @@
+C:\Users\scouser\SecondCourse\OOP\new\Coursuch\Coursuch\bin\Debug\Coursuch.exe.config
+C:\Users\scouser\SecondCourse\OOP\new\Coursuch\Coursuch\bin\Debug\Coursuch.exe
+C:\Users\scouser\SecondCourse\OOP\new\Coursuch\Coursuch\bin\Debug\Coursuch.pdb
+C:\Users\scouser\SecondCourse\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.csprojResolveAssemblyReference.cache
+C:\Users\scouser\SecondCourse\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.Form1.resources
+C:\Users\scouser\SecondCourse\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.Properties.Resources.resources
+C:\Users\scouser\SecondCourse\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.csproj.GenerateResource.Cache
+C:\Users\scouser\SecondCourse\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.exe
+C:\Users\scouser\SecondCourse\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.pdb
+C:\Users\scouser\SecondCourse\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.Search.resources
+C:\Users\scouser\SecondCourse\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.AddClub.resources
+C:\Users\scouser\SecondCourse\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.AddPlayer.resources
+C:\Users\scouser\SecondCourse\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.EditClub.resources
+C:\Users\scouser\SecondCourse\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.EditPlayer.resources
+D:\Dlya kursovoj\OOP\new\Coursuch\Coursuch\bin\Debug\Coursuch.exe.config
+D:\Dlya kursovoj\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.exe
+D:\Dlya kursovoj\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.pdb
+D:\Dlya kursovoj\OOP\new\Coursuch\Coursuch\bin\Debug\Coursuch.exe
+D:\Dlya kursovoj\OOP\new\Coursuch\Coursuch\bin\Debug\Coursuch.pdb
+D:\Dlya kursovoj\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.csprojResolveAssemblyReference.cache
+D:\Dlya kursovoj\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.AddClub.resources
+D:\Dlya kursovoj\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.AddPlayer.resources
+D:\Dlya kursovoj\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.EditClub.resources
+D:\Dlya kursovoj\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.EditPlayer.resources
+D:\Dlya kursovoj\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.Form1.resources
+D:\Dlya kursovoj\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.Properties.Resources.resources
+D:\Dlya kursovoj\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.Search.resources
+D:\Dlya kursovoj\OOP\new\Coursuch\Coursuch\obj\Debug\Coursuch.csproj.GenerateResource.Cache
